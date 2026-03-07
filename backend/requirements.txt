@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+python-multipart
+PyPDF2
+openai-whisper
+torch
+gtts
+sqlalchemy
+psycopg2-binary
+psutil
